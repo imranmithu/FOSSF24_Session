@@ -52,6 +52,7 @@ icon:
 nav:
 - Home: index.md
 - DMP: dmp.md
+- Education: edu.md
 
 # Extra Plugins
 plugins:
